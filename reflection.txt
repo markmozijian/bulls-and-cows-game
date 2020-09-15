@@ -1,0 +1,5 @@
+Through the assignment, I have achieved the ability to structure a complete java program by constructing different objects with different functions. And I have learned how to make the structure as simple as I can by the usage of inheritance. Also, I have learned to put some statements which were used several times in a method to simplify the class. What is more, I get a deeper understanding of Exception and how to throw an exception according to my need. Finally, I have learned that it is very significant to test every possible input of the program to find bugs.
+
+My program is good because it has a nice structure and it fully completes all the functions of the assignment list. And my program can recognize all invalid input of the player. 
+
+At first, I planned to create an input secret code interface for both AI and player, but later after I realized that both creating random guess and secret code use the same method, I create an ¡°inputCode¡± class for them instead which simplify the whole structure of the program.
